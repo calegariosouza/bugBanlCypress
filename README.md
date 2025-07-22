@@ -1,2 +1,2 @@
-# bugBanlCypress
+# bugBankCypress
 Automação de Testes utilizando o Cypress
